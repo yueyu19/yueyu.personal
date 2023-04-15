@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Phd Candidate at <a href='https://www.ru.nl' target='blank'>Radboud University</a>, the Netherlands.
+subtitle: Postdoc at <a href='https://www.utexas.edu' target='blank'>The University of Texas at Austin</a>, TX, USA.
 
 profile:
   align: right
