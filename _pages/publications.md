@@ -7,10 +7,9 @@ years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
 nav: true
 nav_order: 1
 scholar:
-  last_name: [Badings]
-  first_name: [Thom]
+  last_name: [Yu]
+  first_name: [Yue]
 ---
-https://scholar.google.com/citations?hl=en&user=ji9uRfcAAAAJ
 
 See also my <a href="https://scholar.google.com/citations?hl=en&user=ji9uRfcAAAAJ">Google scholar</a> 
 
