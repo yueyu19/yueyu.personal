@@ -10,7 +10,9 @@ scholar:
   last_name: [Badings]
   first_name: [Thom]
 ---
-See also my <a href="https://scholar.google.nl/citations?hl=nl&user=7K6uKqoAAAAJ">Google scholar</a> or my <a href="https://dblp.uni-trier.de/pid/263/6527.html">DBLP page</a>
+https://scholar.google.com/citations?hl=en&user=ji9uRfcAAAAJ
+
+See also my <a href="https://scholar.google.com/citations?hl=en&user=ji9uRfcAAAAJ">Google scholar</a> 
 
 <!-- _pages/publications.md -->
 <div class="publications">
