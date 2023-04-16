@@ -2,32 +2,32 @@
 layout: page
 permalink: /activities/
 title: Activities
-description: An (nonexhaustive) overview of my professional activities.
+description: A nonexhaustive overview of my professional activities.
 nav: true
 nav_order: 3
 ---
 
-Workshop Presentations
+Invited Presentations
 ------
-In addition to the conferences listed in my publicatoin list, I have attended and presented at the following workshops.
+I have been invited to present my work in the following events.
 
-- [NeurIPS Robot Learning](http://www.robot-learning.ml/2022/) (2022)
-- [AAAI Fall Symposium on AI for Predictive Maintenance](https://autonlab.org/pmx_aaai_fss_2022/) (2022)
-- [VeriProp](https://veriprop.github.io/2022/) (2022), workshop at Computer Aided Verification (CAV)
-- [Lorentz Center: Rigorous Automated Planning](https://www.lorentzcenter.nl/rigorous-automated-planning-2022.html) (2022)
-- [ROCKS Workshop](https://www.modestchecker.net/rocks2022/)(2022)
-- [Robotics 4 People](https://sites.google.com/view/r4p2021/?pli=1) (2021), workshop at Robotics: Science and Systems (RSS)
-- SNR (2021)
-- [SEN Symposium](https://www.sen-symposium.nl/) (2021)
+- [2023 SIAM Conference on Optimization](https://www.siam.org/conferences/cm/conference/op23) (2023)
+- [The seventh International Conference on Continuous Optimization](https://iccopt2022.lehigh.edu) (2022)
+- [2022 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/) (2022)
+
 
 Talks at other Universities
 ------
 **Virtual:** UT Austin (April 2023), University of Oxford (November 2021), KTH Stockholm (November 2021), TU Delft (March 2021) 
 
-**In-person:** TU Delft (February 2023), Saarland University (November 2022), UT Austin (April 2022)
+**In-person:** 
+- Rensselaer Polytechnic Institute, Mechanical, Aerospace, and Nuclear Engineering, March, 2023 (Host: Michael Amitay)
+- New York University, Electrical and Computer Engineering, March, 2023 (Host: Farshad Khorrami)
+- University of Michigan, Civil and Environmental Engineering, Febuary, 2023 (Host: Jeff Scruggs)
+
 
 External Reviewer
 ------
-**Conferences:** NeurIPS, ICML, ICAPS, ICRA, QEST, PHASE, Formal Methods (FM), ADHS
+**Conferences:** ACC, CDC, ICRA, ICCPS, QEST
 
-**Journals:** IEEE Transactions on Control of Network Systems (TCNS), IEEE Control Systems Letters (L-CSS), IEEE, Transactions on Automatic Control
+**Journals:** Automatica, IEEE Transactions on Automatic Control (TAC), IEEE Control Systems Letters (L-CSS), Journal of Guidance, Control, and Dynamics (JGCD), Journal of Optimization Theory and Applications (JOTA)
