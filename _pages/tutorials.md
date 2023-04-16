@@ -4,7 +4,7 @@ title: tutorials
 permalink: /tutorials/
 description: Here, you find some of the tutorials.
 nav: true
-nav_order: 2
+nav_order: 5
 horizontal: true
 ---
 
