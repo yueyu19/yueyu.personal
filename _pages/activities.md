@@ -18,7 +18,9 @@ I have been invited to present my work in the following events.
 
 Talks at other Universities
 ------
-**Virtual:** UT Austin (April 2023), University of Oxford (November 2021), KTH Stockholm (November 2021), TU Delft (March 2021) 
+**Virtual:** 
+- University of Washington, Aeronautics and Astronautics Department, July, 2022 (Host: Mehran Mesbahi)
+- Rutgers University, Department of Management  Science and Information Systems, October, 2022 (Host: Yassine Laguel)
 
 **In-person:** 
 - Rensselaer Polytechnic Institute, Mechanical, Aerospace, and Nuclear Engineering, March, 2023 (Host: Michael Amitay)
