@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoc at the Oden Institute for Computational Engineering and Sciences, The University of Texas at Austin. My advisor is [Professor Ufuk Topcu](https://www.ae.utexas.edu/people/faculty/faculty-directory/topcu). I obtained my PhD degree from Univsersity of Washington. My PhD advisor is [Professor Behcet Acikmese](https://www.aa.washington.edu/facultyfinder/behcet-acikmese). 
+I am a postdoc at the Oden Institute for Computational Engineering and Sciences, The University of Texas at Austin. My advisor is [Ufuk Topcu](https://www.ae.utexas.edu/people/faculty/faculty-directory/topcu). I obtained my PhD degree from Univsersity of Washington. My PhD advisor is [Behcet Acikmese](https://www.aa.washington.edu/facultyfinder/behcet-acikmese). 
 
 Research interests
 ------
