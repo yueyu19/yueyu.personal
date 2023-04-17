@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inverse Games 
+title: Algorithmic Inverse Games 
 description: Inferring players' motives from their dicision histories in multiplayer games. 
 importance: 1
 category: work
@@ -12,7 +12,7 @@ Inverse games is the problem of inferring players’s motives from their decisio
 
 <h2>How do we do it?</h2>
 
-Solving an inverse game problem requires the following four steps. 
+Building an algorithm to solve the inverse game problem typically requires the following steps. 
 
 - First, we need to mathematical modeling each individual player’s decision-making. In a rock-paper-scissors game, this model is the minimization of a linear function over the probability simplex. In dynamic interactions, this model can either be a linear-quadratic trajectory optimization or a Markov decision process. 
 
