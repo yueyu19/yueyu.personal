@@ -26,10 +26,15 @@ Solving an inverse game problem requires the following four steps.
 
 The renewed interests in inverse games come from both practical necessity and theoretical advances. On the one hand, we have autonomous cars driving among human-driven ones, where understanding multiagent interaction is critical. On the other hand, recent results on maximum entropy principle and implicit differentiation allow us to build more powerful differentiable equilibirum models to predict noncooperative decisions. 
   
-Inverse games is also the first step of incentive design. Once we have an inference of players' motives, we can provide external incentives to encourage desired behavior. Incentive design has been a central topic in transportation research. It recently gained increasing interests in multiagent robotics.  
+Inverse games is also the first step of incentive design. Once we have an inference of players' motives, we can provide external incentives to encourage desired behavior. Incentive design has been a central topic in transportation research. It recently gained increasing interests in multiagent robotics. See below for an example.
+
+<p align = "center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EvtPp_DWqgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>  
 
 
 <div class="publications">
-<h2>Related publications</h2>
+<h2>Related publications</h2>  
+  
 {% bibliography -f papers -q @*[invgame=true]* %}
 </div>
