@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Split-Second Trajectory Optimization 
-description: Designing and analyzing numerical optimization algorithms as dynamical systems.
+description: Developing faster numerial optimization methods and software to enable real-time planning.
 importance: 2
 category: work
 ---
