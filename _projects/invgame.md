@@ -22,9 +22,9 @@ Solving an inverse game problem requires the following four steps.
   
 -Finally, we need to optimize the parameters in our model, typically the players’ objective functions or constraints, such that the decisions predicted by our model match players’ decision history. 
 
-<h2></h2>
+<h2>Why is it interesting NOW?</h2>
 
-
+The renewed interests in inverse games come from both practical necessity and theoretical advances. On the one hand, we have autonomous cars driving among human-driven ones, where understanding multiagent interaction is critical. On the other hand, recent results on maximum entropy principle and implicit differentiation allow us to build more powerful differentiable equilibirum models to predict noncooperative decisions. 
 
 
 <div class="publications">
