@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inverse Learning for Multiplayer Games 
-description: Inferring the players' motives from their dicision histories in multiagent interaction 
+description: Inferring the players' motives from their dicision histories in multiplayer games. 
 importance: 1
 category: work
 ---
