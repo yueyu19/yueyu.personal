@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Inverse Learning for Dynamic Games 
-description: Inferring motives from observed dicision history in multiagent interaction 
+title: Inverse Learning for Multiplayer Games 
+description: Inferring the players' motives from their dicision histories in multiagent interaction 
 importance: 1
 category: work
 ---
 
 
-<h2>Inverse</h2>
+<h2>Inverse Games</h2>
 
 
 
