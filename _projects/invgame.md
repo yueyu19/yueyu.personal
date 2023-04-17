@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inverse Learning for Multiplayer Games 
+title: Numerical Methods for Inverse Games 
 description: Inferring the players' motives from their dicision histories in multiplayer games. 
 importance: 1
 category: work
