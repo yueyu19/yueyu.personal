@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Numerical Methods for Inverse Games 
-description: Inferring the players' motives from their dicision histories in multiplayer games. 
+title: Inverse Games 
+description: Inferring players' motives from their dicision histories in multiplayer games. 
 importance: 1
 category: work
 ---
