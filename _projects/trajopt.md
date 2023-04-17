@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Split-second trajectory optimization 
+title: Split-Second Trajectory Optimization 
 description: Designing and analyzing numerical optimization algorithms as dynamical systems.
 importance: 2
 category: work
