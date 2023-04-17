@@ -6,13 +6,13 @@ importance: 2
 category: work
 ---
 
-<h2>T1</h2>
+<h2>What is trajectory optimization?</h2>
 
 
 
-<h2>T2</h2>
+<h2>How do we do it?</h2>
 
-<h2>T3</h2>
+<h2>What are the applications?</h2>
 
 
 <div class="publications">
