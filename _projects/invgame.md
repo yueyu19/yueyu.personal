@@ -16,7 +16,7 @@ Building an algorithm to solve the inverse game problem typically requires the f
 
 - Second, we need to model how one player’s decisions affect the other players’ decisions. An example of such model is through players’ objective function. For example, in a rock-paper-scissors game, each player minimizes a linear function, whose slope is an affine function of other players’ decisions.
 
-- Third, we need to predict the players’ decisions when they interact with each other. A popular prediction principle is that no player can benefit from an unilateral change of decision, which is commonly known as the <em>Nash equilibrium principle<em>. Other examples of similar principles include the <em>Wardrop equilibrium<em> and the <em>quantal response equilibrium<em>.
+- Third, we need to predict the players’ decisions when they interact with each other. A popular prediction principle is that no player can benefit from an unilateral change of decision, which is commonly known as the Nash equilibrium principle. Other examples of similar principles include the Wardrop equilibrium and the quantal response equilibrium.
   
 - Finally, we need to optimize the parameters in our model, typically the players’ objective functions or constraints, such that the decisions predicted by our model match players’ decision history. 
 
