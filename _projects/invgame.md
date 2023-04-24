@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Algorithmic Inverse Games 
-description: Inferring players' motives from their dicision histories in multiplayer games. 
+title: Algorithmic Inverse Games: Figuring Out What Games You Are Playing 
+description:  
 importance: 1
 category: work
 ---
