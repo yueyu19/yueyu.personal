@@ -7,7 +7,7 @@ category: work
 ---
 
 
-Inverse games is the problem of inferring players’s motives from their decision histories in noncooperative games. Such an inference explains the behavior of strange decision-makers and, perhaps more importantly, predicts their future actions. Solving the inverse game problem can help us predict, for example, whether a basketball player will take a shot when double-teamed, whether a pocker player will call a bluff, how drivers switch their routes when facing unexpected congestion, and how cyberattacks plan their strategies when presented with different honeypots. 
+Inverse games is the problem of inferring players’s motives from their decision histories in noncooperative games. Such an inference explains the behavior of strange decision-makers and, perhaps more importantly, predicts their future actions. Solving the inverse game problem can help us predict, for example, whether a basketball player will take a shot when double-teamed, whether a poker player will call a bluff, how drivers switch their routes when facing unexpected congestion, and how cyberattacks plan their strategies when presented with different honeypots. 
 
 
 Building an algorithm to solve the inverse game problem typically requires the following steps. 
@@ -21,7 +21,7 @@ Building an algorithm to solve the inverse game problem typically requires the f
 - Finally, we need to optimize the parameters in our model, typically the players’ objective functions or constraints, such that the decisions predicted by our model match players’ decision history. 
 
 
-The renewed interests in inverse games come from both practical necessity and theoretical advances. On the one hand, we have autonomous cars driving among human-driven ones, where understanding multiagent interaction is critical. On the other hand, recent results on maximum entropy principle and implicit differentiation allow us to build more powerful differentiable equilibirum models to predict noncooperative decisions. 
+The renewed interests in inverse games come from both practical necessity and theoretical advances. On the one hand, we have autonomous cars driving among human-driven ones, where understanding multiagent interaction is critical. On the other hand, recent results on maximum entropy principle and implicit differentiation allow us to build more powerful differentiable equilibrium models to predict noncooperative decisions. 
   
 Inverse games is also the first step of incentive design. Once we have an inference of players' motives, we can provide external incentives to encourage desired behavior. Incentive design has been a central topic in transportation research. It recently gained increasing interests in multiagent robotics. See below for an example.
 
