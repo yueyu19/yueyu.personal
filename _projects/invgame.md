@@ -7,7 +7,7 @@ category: work
 ---
 
 
-Inverse games is the problem of inferring players’s motives from their decision histories in noncooperative games. Such an inference explains the behavior of strange decision-makers and, perhaps more importantly, predict their future actions. Solving the inverse game problem can help us predict, for example, whether a basketball player will take a shot when double-teamed, whether a pocker player will call a bluff, how drivers switch their routes when facing unexpected congestion, and how cyberattacks plan their strategies when presented with different honeypots. 
+Inverse games is the problem of inferring players’s motives from their decision histories in noncooperative games. Such an inference explains the behavior of strange decision-makers and, perhaps more importantly, predicts their future actions. Solving the inverse game problem can help us predict, for example, whether a basketball player will take a shot when double-teamed, whether a pocker player will call a bluff, how drivers switch their routes when facing unexpected congestion, and how cyberattacks plan their strategies when presented with different honeypots. 
 
 
 Building an algorithm to solve the inverse game problem typically requires the following steps. 
