@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Algorithmic Inverse Games: Figuring Out What Games You Are Playing 
-description:  
+title: Algorithmic Inverse Games
+description: Figuring Out What Games You Are Playing 
 importance: 1
 category: work
 ---
