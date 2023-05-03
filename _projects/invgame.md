@@ -1,15 +1,17 @@
 ---
 layout: page
 title: Algorithmic Inverse Games
-description: Figuring out what games you are playing 
+description:  Inferring What Games You Are Playing 
 importance: 1
 category: work
 ---
 
 
-Inverse games is about inferring players’ motives from their interaction history. What motivates a basketball player’s to make tough shots when double-teamed, or a poker player to call a bluff? How can we infer these motives from what they did in the past? Inverse games answer these questions—and many others—by mathematically modeling players’ interactions and numerically compute the model parameters that give the best explanations for players’ interaction history.
+Inverse games are about inferring players’ motives from their interaction history. What motivates a basketball player to make tough shots when double-teamed, or a poker player to call a bluff? Inverse games answer these questions by explaining the players’ past decisions, and help predict the players’ future actions. 
 
-Inverse games is also the foundation of incentive design. If we can infer what motivates the players’ current decisions, we can infer what future incentive or tax mechanisms will keep them in line. For example, by adding proper incentives, we can motivate rovers to choose collision-free maneuvers even though they cost more battery. 
+Inverse games include two steps: mathematical modeling players’ interactions and numerically optimizing model parameters. In the first step, we develop game theoretical models to explain and predict players’ interactions by combining ideas from control theory, and decision science. In the second step, we develop numerical optimization and statistical learning methods to compute parameters that optimally explain observed interaction history.   
+
+Inverse games are also the foundation of incentive design. If we can infer what motivates the players’ decisions, we can infer the incentives that encourage desirable player behavior. For example, by adding incentives, we can motivate robots to choose collision-free paths even though they cost more battery. 
 
 
 <p align = "center">
