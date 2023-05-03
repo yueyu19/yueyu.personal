@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Real-time Trajectory Optimization 
+title: Real-Time Trajectory Optimization 
 description: Enabling split-second planning on autonomous vehicles.
 importance: 2
 category: work
