@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Algorithmic Inverse Games
-description:  Inferring What Games You Are Playing 
+description:  What games you are playing? 
 importance: 1
 category: work
 ---
