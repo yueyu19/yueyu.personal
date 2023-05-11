@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Optimizing transportation networks 
