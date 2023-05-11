@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Optimizing transportation networks 
+title: Network Optimization in Transportation
 description:  Reducing traffic congestion by designing better infrastructures
 importance: 2
 category: work
