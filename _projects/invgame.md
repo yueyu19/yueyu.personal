@@ -20,10 +20,10 @@ Inverse games are also the foundation of incentive design. If we can infer what 
     </div>
 </div>
 
-<div class="caption">
+<!-- <div class="caption">
     Incentivizing collision-avoidance in multi-rover path planning.
 </div>
-
+ -->
 
 
 <div class="publications">
