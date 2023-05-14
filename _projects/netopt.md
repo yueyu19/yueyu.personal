@@ -15,9 +15,9 @@ The optimization of transportation networks is a multidisciplinary matter. We ne
         {% include figure.html path="assets/img/projects/manhattan.gif" title="Using Tolling to reduce traffic volume in Manhattan" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<!-- <div class="caption">
     Using Tolling to reduce traffic volume in Manhattan.
-</div>
+</div> -->
 
 
 <div class="publications">
