@@ -18,6 +18,10 @@ Inverse games are also the foundation of incentive design. If we can infer what 
         {% include figure.html path="assets/img/projects/incentive.gif" title="Incentive design in multi-rover path planning" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>  
+<div class="caption">
+    Incentivizing collision-avoidance in multi-rover path planning.
+</div>
+
 
 
 <div class="publications">
