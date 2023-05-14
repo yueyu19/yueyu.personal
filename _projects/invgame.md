@@ -14,7 +14,7 @@ Inverse games include two steps: mathematical modeling players’ interactions a
 Inverse games are also the foundation of incentive design. If we can infer what motivates the players’ decisions, we can infer the incentives that encourage desirable player behavior. For example, by adding incentives, we can motivate robots to choose collision-free paths even though they cost more battery. 
 
 
-<div class="row">
+<div class="row" style="justify-content: center; align-content: center;">
     <div class="col-md-12 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/incentive.gif" title="Incentive design in multi-rover path planning" class="img-fluid rounded z-depth-1" %}
     </div>
