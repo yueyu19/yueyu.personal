@@ -11,7 +11,7 @@ Invited Presentations at Conferences & Workshops
 ------
 I have been invited to present my work in the following events.
 
-- [2023 Meeting for NSF CPS Frontier: Cognitive Autonomy for Human CPS](https://autonomy.unm.edu)
+- [2023 Meeting for NSF CPS Frontier: Cognitive Autonomy for Human CPS](https://autonomy.unm.edu) (2023)
 - [2023 SIAM Conference on Optimization](https://www.siam.org/conferences/cm/conference/op23) (2023)
 - [The seventh International Conference on Continuous Optimization](https://iccopt2022.lehigh.edu) (2022)
 - [2022 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/) (2022)
