@@ -19,11 +19,9 @@ I have been invited to present my work in the following events.
 
 Talks at other Universities
 ------
-**Virtual:** 
+
 - University of Washington, Aeronautics and Astronautics Department, July, 2022 (Host: Mehran Mesbahi)
 - Rutgers University, Department of Management  Science and Information Systems, October, 2022 (Host: Yassine Laguel)
-
-**In-person:** 
 - Rensselaer Polytechnic Institute, Mechanical, Aerospace, and Nuclear Engineering, March, 2023 (Host: Michael Amitay)
 - New York University, Electrical and Computer Engineering, March, 2023 (Host: Farshad Khorrami)
 - University of Michigan, Civil and Environmental Engineering, Febuary, 2023 (Host: Jeff Scruggs)
