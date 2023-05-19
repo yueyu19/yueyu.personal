@@ -6,7 +6,7 @@ subtitle: Postdoc at <a href='https://www.utexas.edu' target='blank'>The Univers
 
 profile:
   align: right
-  image: yue2.jpeg
+  image: yue.jpeg
   image_circular: false # crops the image to make it circular
   address:
 
