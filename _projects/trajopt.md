@@ -10,6 +10,12 @@ Constrained trajectory optimization is critical for autonomy. By optimizing thei
 
 We develop both theoretically sound and practically efficient solution algorithms for constrained trajectory optimization by exploiting its unique structure. On the theory side, we provide rigorous convergence rate analysis based on Lyapunov analysis for nonlinear and nonsmooth dynamics and infeasibility detection guarantees based on monotone operator theory. On the practical side, we boost the algorithm speed by exploiting the sparsity structure of the problem data and geometric interpretation of the constraints. 
 
+<div class="row" style="justify-content: center; align-content: center;">
+    <div class="col-md-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/Hoop_clip.gif" title="Trajectory optimization with hoop obstacles" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <div class="publications">
 <h2>Related publications</h2>  
   
