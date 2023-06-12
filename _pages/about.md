@@ -20,6 +20,6 @@ I am a postdoc at the Oden Institute for Computational Engineering and Sciences,
 Research interests
 ------
 
-My research interests are in the intersections of optimization, game theory, control theory, and machine learning. I develop numerical optimization solvers to enable real-time decision-making in autonomy, data-driven control methods for dynamical systems with unknown governing equations, and mechanisms design to mitigate the conflicts in multiagent interaction. 
+My research interests are in the intersections of optimization, game theory, control theory, and machine learning. I develop numerical optimization solvers to enable real-time decision-making in autonomy, data-driven control for dynamical systems with unknown governing equations, and mechanism design to mitigate the conflicts in multiagent interaction. 
 
 
