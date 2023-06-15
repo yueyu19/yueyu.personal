@@ -17,15 +17,15 @@ I have been invited to present my work in the following events.
 - [2022 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/) (2022)
 
 
-Talks at other Universities
+Invited Talks at other Universities
 ------
 
-- University of Washington, Aeronautics and Astronautics Department, July, 2022 (Host: Mehran Mesbahi)
-- Rutgers University, Department of Management  Science and Information Systems, October, 2022 (Host: Yassine Laguel)
+- Utah State University, Mechanical and Aerospace Engineering, June, 2023 (Host: Matt Harris)
 - Rensselaer Polytechnic Institute, Mechanical, Aerospace, and Nuclear Engineering, March, 2023 (Host: Michael Amitay)
-- New York University, Electrical and Computer Engineering, March, 2023 (Host: Farshad Khorrami)
 - University of Michigan, Civil and Environmental Engineering, Febuary, 2023 (Host: Jeff Scruggs)
-
+- New York University, Electrical and Computer Engineering, March, 2023 (Host: Farshad Khorrami)
+- Rutgers University, Department of Management  Science and Information Systems, October, 2022 (Host: Yassine Laguel)
+- University of Washington, Aeronautics and Astronautics Department, July, 2022 (Host: Mehran Mesbahi)
 
 External Reviewer
 ------
