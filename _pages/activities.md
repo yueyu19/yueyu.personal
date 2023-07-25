@@ -17,7 +17,7 @@ I have been invited to present my work in the following events.
 - [2022 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/) (2022)
 
 
-Invited Talks at other Universities
+Invited Talks at Other Universities
 ------
 - ETH Zurich, Institute for Dynamic Systems and Control, July, 2023 (Host: Zardini Gioele)
 - Utah State University, Mechanical and Aerospace Engineering, June, 2023 (Host: Matt Harris)
