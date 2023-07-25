@@ -19,7 +19,7 @@ I have been invited to present my work in the following events.
 
 Invited Talks at other Universities
 ------
-
+- ETH Zurich, Institute for Dynamic Systems and Control, July, 2023 (Host: Zardini Gioele)
 - Utah State University, Mechanical and Aerospace Engineering, June, 2023 (Host: Matt Harris)
 - Rensselaer Polytechnic Institute, Mechanical, Aerospace, and Nuclear Engineering, March, 2023 (Host: Michael Amitay)
 - University of Michigan, Civil and Environmental Engineering, Febuary, 2023 (Host: Jeff Scruggs)
