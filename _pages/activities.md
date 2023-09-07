@@ -19,13 +19,14 @@ I have been invited to present my work in the following events.
 
 Invited Talks at Other Universities
 ------
-- ETH Zurich, Institute for Dynamic Systems and Control, July, 2023 (Host: Zardini Gioele)
-- Utah State University, Mechanical and Aerospace Engineering, June, 2023 (Host: Matt Harris)
-- Rensselaer Polytechnic Institute, Mechanical, Aerospace, and Nuclear Engineering, March, 2023 (Host: Michael Amitay)
-- University of Michigan, Civil and Environmental Engineering, Febuary, 2023 (Host: Jeff Scruggs)
-- New York University, Electrical and Computer Engineering, March, 2023 (Host: Farshad Khorrami)
-- Rutgers University, Department of Management  Science and Information Systems, October, 2022 (Host: Yassine Laguel)
-- University of Washington, Aeronautics and Astronautics Department, July, 2022 (Host: Mehran Mesbahi)
+- The University of New Mexico, Hybrid Systems and Control Lab, Sep, 2023. (Host: Meeko Oishi)
+- ETH Zurich, Institute for Dynamic Systems and Control, July, 2023. (Host: Zardini Gioele)
+- Utah State University, Mechanical and Aerospace Engineering, June, 2023. (Host: Matt Harris)
+- Rensselaer Polytechnic Institute, Mechanical, Aerospace, and Nuclear Engineering, March, 2023. (Host: Michael Amitay)
+- University of Michigan, Civil and Environmental Engineering, Febuary, 2023. (Host: Jeff Scruggs)
+- New York University, Electrical and Computer Engineering, March, 2023. (Host: Farshad Khorrami)
+- Rutgers University, Department of Management  Science and Information Systems, October, 2022. (Host: Yassine Laguel)
+- University of Washington, Aeronautics and Astronautics Department, July, 2022. (Host: Mehran Mesbahi)
 
 External Reviewer
 ------
