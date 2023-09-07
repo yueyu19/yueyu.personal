@@ -17,9 +17,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a postdoc at the Oden Institute for Computational Engineering and Sciences, The University of Texas at Austin. My advisor is [Ufuk Topcu](https://www.ae.utexas.edu/people/faculty/faculty-directory/topcu). I obtained my PhD degree from Univsersity of Washington. My PhD advisor is [Behcet Acikmese](https://www.aa.washington.edu/facultyfinder/behcet-acikmese). 
 
-Research interests
-------
 
-My research interests are in the intersections of optimization, game theory, control theory, and machine learning. I develop numerical optimization solvers to enable real-time decision-making in autonomy, data-driven control for dynamical systems with unknown governing equations, and mechanism design to mitigate the conflicts in multiagent interaction. 
 
 
