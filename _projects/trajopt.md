@@ -16,6 +16,14 @@ We develop both theoretically sound and practically efficient solution algorithm
     </div>
 </div>
 
+One of our recent work, led by Abhinav G. Kamath, has won the 2023 AIAA Guidance, Navigation, and Control Best paper!
+
+<div class="row" style="justify-content: center; align-content: center;">
+    <div class="col-md-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/award.png" title="Best paper award" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <div class="publications">
 <h2>Related publications</h2>  
   
